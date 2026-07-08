@@ -1,5 +1,5 @@
 # CyberSecurity-Mastery-Roadmap
-![Cybersecurity Banner](assets/cybersecurity-banner.jpeg)
+![Cybersecurity Banner](assets/cybersecurity-banner.png)
 
 Cyber Security Mastery Roadmap..👨‍💼
 
