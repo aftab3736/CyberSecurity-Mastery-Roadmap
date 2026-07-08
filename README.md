@@ -32,7 +32,7 @@ This roadmap is divided into phases, each building upon the previous one. For ea
 *  **Milestones**: Key indicators that you've mastered the topic
 *  **Tools**: Relevant tools to practice with
 
-Progress through each phase sequentially, but feel free to dive deeper into topics that interest you or are relevant to your career goals. Remember that practical experience is crucial in cybersecurity,so make sure   to supplement your theoretical knowledge with hands-on practice.
+Progress through each phase sequentially, but feel free to dive deeper into topics that interest you or are relevant to your career goals. Remember that practical experience is crucial in cybersecurity, so make sure   to supplement your theoretical knowledge with hands-on practice.
 ### ROADMAP OVERVIEW:
 ### Learning Path Progression
 1.  **Foundation Phase**- Build core knowledge in computing, networking, and basic security principles.
@@ -40,4 +40,34 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 3.  **Specialization Phase**-Focus on offensive or defensive security specializations.
 4.  **Advance Phase**-Master advanced topics and specialized security domains.
 5.  **Professional Development**-Continuous learning and career advancement.
+### FOUNDATION PHASE:
+1.  **COMPUTER FUNDAMENTALS**
+   * Operating Systems
+    <ul type="circle">
+    <li><a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50: Introduction to Computer Science (HTML)</li>
+    </ul>
+    <ul type="circle">
+    <li><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating System: Three Easy Pieces</li>
+    </ul>
+    <ul type="circle">
+    <li><a href="https://www.netacad.com/courses/operating-systems-basics?courseLang=en-US">Introduction to Operating Systems CISCO</li>
+    </ul>
+    <ul type="circle">
+    <li><a href="https://www.cse.iitb.ac.in/~mythili/os/">CSE:Operating System Engineering</li>
+    </ul>
 
+  ### Practical Exercise:
+  *  Install and explore Windows, Ubuntu, Arch, macOS
+  *  Learn memory management, scheduling, and file systems
+  *  Play [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+  *  Use [QEMU](https://www.qemu.org/) or [Virtual Box](https://www.virtualbox.org/)
+  ### Networking Basics:
+  *  [Networking Basics by CISCO](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
+
+     Or,
+  *  [The Bits and Bytes of Computer Networking by GOOGLE](https://www.skills.google/course_templates/1252)
+  *  [Practical Networking](https://www.practicalnetworking.net/)
+  *  [Wireshark Tutorial (YouTube)](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
+  *  [Cisco Networking (Getting Started with Cisco Packet Tracer)](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)
+### Tools
+  *  [WireShark](https://www.wireshark.org/)-Network Protocol Analyzer
