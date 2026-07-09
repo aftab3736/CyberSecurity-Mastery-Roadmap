@@ -8,7 +8,7 @@ A comprehensive, step-by-step guide to mastering cybersecurity from beginner to 
 *  [Introduction](#INTRODUCTION)
 *  [How to Use This Roadmap](#HOW-TO-USE-THIS-ROADMAP)
 *  [Roadmap Overview](#ROADMAP-OVERVIEW)
-*  Foundation Phase
+*  [Foundation Phase](FOUNDATION-PHASE)
 *  Technical Skills Phase
 *  Specialization Phase
 *  Advanced Phase
@@ -41,7 +41,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 4.  **Advance Phase**-Master advanced topics and specialized security domains.
 5.  **Professional Development**-Continuous learning and career advancement.
 ### FOUNDATION PHASE:
-1.  **COMPUTER FUNDAMENTALS**
+###   1. COMPUTER FUNDAMENTALS
    * Operating Systems
     <ul type="circle">
     <li><a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50: Introduction to Computer Science (HTML)</li>
@@ -79,4 +79,8 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 <li>	Analyze packets with Wireshark</li>
 <li>	Practice subnetting, DNS, firewall rules</li>
 </ul>
+
+### Programming Fundamentals:
+
+
     
