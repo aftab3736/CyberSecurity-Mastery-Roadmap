@@ -70,4 +70,13 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   *  [Wireshark Tutorial (YouTube)](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
   *  [Cisco Networking (Getting Started with Cisco Packet Tracer)](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)
 ### Tools
-  *  [WireShark](https://www.wireshark.org/)-Network Protocol Analyzer
+  *  [WireShark](https://www.wireshark.org/)-Network Protocol Analyzer.
+  *  [tcpdump](https://www.tcpdump.org/)-Command-line packet analyzer.
+  *  [Cisco Packet Trader](https://www.netacad.com/cisco-packet-tracer)-Network simulation tool.
+  *  [GNS3](https://www.gns3.com/)-Virtual Network Simulation.
+### Practice Exercises:
+<ul type="circle"> <li>	Simulate networks with GNS3 or Packet Tracer</li>
+<li>	Analyze packets with Wireshark</li>
+<li>	Practice subnetting, DNS, firewall rules</li>
+</ul>
+    
